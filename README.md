@@ -14,7 +14,7 @@
 
 ## About Me
 
-Full-stack developer with 8+ years of experience building scalable, production-grade systems. Currently developing customer-facing chat systems at Dropbox, processing 28K+ daily messages. Specialized in distributed systems, microservices architecture, and cloud-native development.
+Full-stack developer with 8+ years of experience building scalable, production-grade systems. Currently developing customer-facing chat, agent systems at Dropbox, processing 28K+ daily messages. Specialized in distributed systems, microservices architecture, and cloud-native development.
 
 **Location:** Phoenix, Arizona  
 **Current Role:** Full-Stack Developer @ Dropbox  
