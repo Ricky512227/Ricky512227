@@ -2,7 +2,7 @@
 
 # Kamal Sai Devarapalli
 
-### Full-Stack Developer | Software Engineer | Backend & Frontend | Microservices | Cloud-Native Systems
+### Software Engineer | Full-Stack Developer | Backend & Frontend | Microservices | Cloud-Native Systems
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/kamal-devarapalli-038a39233/)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devarapallikamalsai@gmail.com)
@@ -14,7 +14,7 @@
 
 ## About Me
 
-Full-stack developer with 8+ years of experience building scalable, production-grade systems. Currently developing customer-facing chat, agent systems at Dropbox, processing 28K+ daily messages. Specialized in distributed systems, microservices architecture, and cloud-native development.
+Software Engineer with 9+ years of experience building scalable, production-grade systems. Currently developing customer-facing chat and agent systems at Dropbox, processing 28K+ daily messages. Specialised in distributed systems, microservices architecture, and cloud-native development.
 
 **Location:** Phoenix, Arizona  
 **Current Role:** Full-Stack Developer @ Dropbox  
